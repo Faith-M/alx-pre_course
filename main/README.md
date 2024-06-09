@@ -1,1 +1,1 @@
-My non-empty directory
+My updated readme
